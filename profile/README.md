@@ -1,7 +1,7 @@
 GeoHealth
 ==================
 
-![GEOHEALTH.png](https://www.unige.ch/medecine/isg/en/research/1000ray/medecine/isg/files/8315/4408/6654/GEOHEALTH.png)
+![GEOHEALTH.png](https://www.unige.ch/medecine/isg/files/8315/4408/6654/GEOHEALTH.png)
 
 GeoHealth is about geospatial approaches applied to health. Broadly defined, GeoHealth seeks to understand the relationships between people, location, time and health. The GeoHealth research group is dedicated to research and development in Global Health using advanced geospatial modelling, Geographic Information Systems (GIS), Spatial Data Infrastructures, and spatial statistics. We collaborate extensively with the Institute for Environmental Sciences, several of our research lines are at the interface between Environmental Sciences and Health. In collaboration with [WHO](http://www.who.int/choice/geoaccess/en/) and the [Health GeoLab Collaborative](https://healthgeolab.net/), we have developed and are maintaining the modelling software [AccessMod](http://accessmod.org/), an open-source geospatial tool used in many low- and middle-income countries to model the physical accessibility of networks of health services. We are working closely with UNFPA, UNICEF, The Global Fund and FIND to develop innovative methodologies to tackle many challenges linked to accessibility, universal health coverage, and resource allocation efficiency.
 
